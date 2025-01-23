@@ -9,6 +9,10 @@ POC démontrant la pertinence de l'utilisation du modèle PointNet++ pour l'anal
 Le fichier [`spheres.ipynb`](./spheres.ipynb) est un Notebook Jupyter présentant démonstration simple de PointNet.
 Il génère des nuages de points labellisés et bruités, entraîne le modèle, puis le teste.
 
+Après une génération : 
+
 ![Prédictions après une génération](./pictures/spheres_gen1.png)
+
+Après 15 générations : 
 
 ![Prédiction après 15 générations](./pictures/spheres_gen15.png)
